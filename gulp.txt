@@ -1,0 +1,17 @@
+1 全局安装gulp
+  
+  npm i -g gulp --verbose
+
+2 npm init 自动生成一个package.json
+
+3 npm install --save-dev gulp 在本地安装一个gulp
+
+4 在你的项目底下创建gulpfile.js文件
+
+5 运行gulp,默认就会执行default的task
+
+
+6 npm i --save-dev gulp-concat
+  插件哪里搜 www.npmjs.com
+
+7 gulp是啥 就是一个任务工具 可以帮助我们完成文件的合并压缩。
